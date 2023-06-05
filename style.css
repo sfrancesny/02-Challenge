@@ -57,7 +57,7 @@ a {
     height: 800px; /* Sets the height of the hero section to 800 pixels*/
     width: 100%; /*Sets the width of the hero section to 100%*/
     margin-bottom: 25px; /*Adds 25 pixel of margin at the bottom of the hero section*/
-    background-image: url("digital-marketing-meeting.jpg"); /*Sets the background image of the hero section*/
+    background-image: url"digital-marketing-meeting.jpg"; /*Sets the background image of the hero section*/
     background-size: cover; /* Scales the background image to cover the entire hero section */
     background-position: center; /*Centers the background image within the hero section*/
 }
