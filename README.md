@@ -2,7 +2,7 @@
 <!-- On-the-job ticket or feature request Challenges -->
 
 ## Description 
-The goal of refactoring code as a developer is to improve the intended software through semantic HTML elements, proper treatment of CSS selectors, alwhile following accessibility standards for viewers.
+The goal of refactoring this particular code as a developer is to improve the intended software through semantic HTML elements, proper treatment of CSS selectors, alwhile following accessibility standards for viewers.
 
 ## User Story
 
