@@ -31,6 +31,8 @@ THEN I find a concise, descriptive title
 This following website intends to spread knowledge on the listed topics: search engine optimization, management of your online reputation, and the advantages of social media marketing. The importance of accessiblity is highlighted within refactored code.  
 
  ## Screenshots
-<img src=""/> 
+<img src="02-Challenge_Horiseon1.png"/>
+<img src="02-Challenge_Horiseon2.png"/> 
+<img src="02-Challenge_Horiseon3.png"/> 
 
 Link: https://sfrancesny.github.io/02-Challenge/
